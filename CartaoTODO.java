@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class Cartao {
+public class CartaoTODO {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while(true) {
